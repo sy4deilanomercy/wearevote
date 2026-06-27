@@ -1,0 +1,4 @@
+besok akan ada pemilihan ketua umum, calon kandidatnya cuma ada 1, ya cuma 1. namun pihak panitia ingin saya membuat sebuah aplikasi(web) untuk menghitung setuju atau tidak setuju dengan calon kandidat. ya. aku tau, kenapa tidak mc/moderator saja yng tanya pesertanya setuju atau tidak secara langsung. saya hanya diberi tugas, saya juga udah mengejelaskan, tapi yasudah saya cuma ikut.
+
+maka bantu saya memikirkan ini agar aplikasinya berguna. kalo ide dari saya:
+selesai sesi tanya jawab. monitor/layar didepan menampilkan -> landing page (kiri qrcode, kanan realtime penghitungan + komentar penolakan) -> peserta scan qr -> masuk ke page/form (nama, asal komsat, picture kandidat) dengan button setuju atau tidak setuju ->jika setuju, checklist pernyatan setuju dan submit, -> jika tidak, muncul beberapa opsi dan opsi lainnya (kritik sendiri) alasan tidak setuju.
